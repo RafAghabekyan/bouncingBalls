@@ -6,6 +6,5 @@ Compile Typescript code
 
 ```bash
 tsc
-```bash
 
 Use LiveServer extension to open html file in browser
